@@ -24,3 +24,4 @@ SAMPLE OUTPUT:
 #ComputerVision #AIInnovations #ShopliftingDetection #YOLOv8Model #LossPrevention #RetailSecurity #InnovationInAI #ResearchAndDevelopment
 # ShopLifter_ComputerVision
 # ShopLifter_ComputerVision
+# ShopLifter_ComputerVision
